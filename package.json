@@ -1,0 +1,22 @@
+{
+  "name": "gold-coins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alalbuquerque/gold-coins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alalbuquerque/gold-coins/issues"
+  },
+  "homepage": "https://github.com/alalbuquerque/gold-coins#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
